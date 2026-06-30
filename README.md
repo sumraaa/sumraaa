@@ -1,30 +1,29 @@
-[README.md](https://github.com/user-attachments/files/29504914/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a3093&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a3093&height=220&section=header&text=MR%20SUMANTH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Undergraduate%20Developer%20%7C%20Creative%20Explorer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+%7C+Cloud+%7C+Distributed+Systems;Building+Scalable%2C+Intelligent+Products;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+<a href="https://github.com/sumraaa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Developer;Creative+Explorer+%26+Designer;AI+Automation+%7C+UI%2FUX;Building+Impactful+Digital+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6a3093?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-9.0%2F10-6a3093?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Your%20City%2C%20Country-302b63?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Voc-Software%20Development-6a3093?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-9.6%2F10-6a3093?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Mangaluru%2C%20India-302b63?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6a3093?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-6a3093?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mr-sumanth-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6a3093?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mr-sumanth-940424321"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sumanthmr423@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sumraaa"><img src="https://img.shields.io/badge/GitHub-6a3093?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6a3093&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=302b63&label=Followers&logo=github"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=0f0c29&label=Stars&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=sumraaa&style=flat-square&color=6a3093&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/sumraaa?style=flat-square&color=302b63&label=Followers&logo=github"/>
+<img src="https://img.shields.io/github/stars/sumraaa?style=flat-square&color=0f0c29&label=Stars&logo=github"/>
 
 </div>
 
@@ -39,13 +38,13 @@
 ```yaml
 profile:
  name: MR SUMANTH
-role: "Undergraduate Software Developer | Creative Explorer"
-focus:
+ role: "Undergraduate Software Developer | Creative Explorer"
+ focus:
   - Engineering AI-assisted solutions and automation workflows
   - Architecting reliable and scalable software systems
-  - Blending technical development (C, R, SQL, Git) with graphic design
+  - Blending technical development (C, C++, SQL, Git) with graphic design
   - Crafting seamless digital media and content marketing experiences
-philosophy: "Blending technical engineering with creative design to create seamless, impactful digital experiences."
+ philosophy: "Blending technical engineering with creative design to create seamless, impactful digital experiences."
 ```
 
 </div>
