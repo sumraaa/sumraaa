@@ -38,15 +38,14 @@
 
 ```yaml
 profile:
-  name: "Your Name"
-  role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
-  focus:
-    - Designing scalable backend systems and distributed architectures
-    - Building production-grade AI/ML pipelines and LLM-powered applications
-    - Crafting performant, accessible full stack web experiences
-    - Engineering products with a strong product-thinking mindset
-  philosophy: "Engineering reliable systems that scale, and intelligent
-               products that matter."
+ name: MR SUMANTH
+role: "Undergraduate Software Developer | Creative Explorer"
+focus:
+  - Engineering AI-assisted solutions and automation workflows
+  - Architecting reliable and scalable software systems
+  - Blending technical development (C, R, SQL, Git) with graphic design
+  - Crafting seamless digital media and content marketing experiences
+philosophy: "Blending technical engineering with creative design to create seamless, impactful digital experiences."
 ```
 
 </div>
@@ -57,48 +56,52 @@ I've contributed to projects spanning **distributed systems, generative AI appli
 
 <div align="center">
 
-**🎯 Open To:** Full-Time Software Engineering Roles &nbsp;•&nbsp; AI/ML Engineering Roles &nbsp;•&nbsp; Backend & Full Stack Roles &nbsp;•&nbsp; Open Source Collaboration
+**🎯 Open To:** Junior Developer Roles nd internship &nbsp;•&nbsp; Database & System Architecture &nbsp;•&nbsp; Freelance Engineering Projects &nbsp;•&nbsp; Open Source Collaboration
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,mysql&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,c&theme=dark" />
+<br/><br/>
 
-**Frontend**
+**Development & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vue&theme=dark" />
+<br/><br/>
 
-**Backend & Databases**
+**AI & Specialized Tools**<br/>
+<img src="https://img.shields.io/badge/Claude-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-1A1A1A?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-1A1A1A?style=for-the-badge" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql&theme=dark" />
+<br/><br/>
 
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,git,linux&theme=dark" />
+**Creative & Digital Media**<br/>
+<img src="https://skillicons.dev/icons?i=ps,figma,notion&theme=dark" />
 
 </div>
 
+
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI Automation & Technical Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering, scikit-learn |
-| **Deep Learning** | ⭐⭐⭐⭐⭐ | CNNs, RNNs, Transformers using PyTorch & TensorFlow |
-| **NLP & LLMs** | ⭐⭐⭐⭐ | Fine-tuning, RAG pipelines, prompt engineering, vector databases (Pinecone, FAISS) |
-| **MLOps** | ⭐⭐⭐⭐ | Model serving, CI/CD for ML, experiment tracking (MLflow, Weights & Biases) |
-| **Computer Vision** | ⭐⭐⭐⭐ | Object detection, image segmentation, OpenCV, YOLO |
-| **Generative AI** | ⭐⭐⭐⭐ | LLM application development, LangChain, agentic workflows, OpenAI/Anthropic APIs |
+| **AI-Assisted Engineering** | ⭐⭐⭐⭐⭐ | Leveraging Claude, Gemini & Antigravity for rapid code development and debugging |
+| **Prompt Engineering** | ⭐⭐⭐⭐⭐ | Crafting optimized, context-aware prompts to drive AI automation and workflows |
+| **Core Software Dev** | ⭐⭐⭐⭐ | Application building in C & C++, and database management using SQL |
+| **Creative & Digital Media** | ⭐⭐⭐⭐⭐ | Graphic design, UI/UX concepts, Content Marketing, Photoshop, and Figma |
+| **System Architecture** | ⭐⭐⭐⭐ | Logical database design, structuring seamless workflows, and project planning |
 
 </div>
 
@@ -107,91 +110,60 @@ I've contributed to projects spanning **distributed systems, generative AI appli
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project One — Intelligent Document Processing Platform</b></summary>
+<summary><b>🔹 High-Performance 3D Developer Portfolio</b></summary>
 <br/>
-
-An end-to-end AI-powered platform for extracting, classifying, and summarizing information from large volumes of unstructured documents using a fine-tuned transformer pipeline and RAG-based retrieval.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Python, FastAPI, React, PostgreSQL, Pinecone, Docker, AWS |
-| **Scale** | Processed 500K+ documents, 10K+ daily active queries |
-| **Performance** | Sub-300ms p95 query latency, 99.9% uptime |
-| **Security** | OAuth2, role-based access control, encrypted storage at rest |
-| **Impact** | Reduced manual document review time by 70% |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/project-one) |
-
-This system combines a custom NLP pipeline with vector-based semantic search to enable accurate, low-latency document retrieval at scale, deployed on containerized AWS infrastructure with full CI/CD automation.
-
+A globally deployed digital storefront featuring custom CSS animations, normalized 3D mouse-tracking, and a premium matte UI. Engineered for maximum performance by decoupling heavy 3D rendering from the DOM and utilizing hardware-accelerated CSS.
+<br/><br/>
+<b>Tech:</b> React, React Three Fiber, Pure CSS, Vercel
+<br/><br/>
 </details>
 
 <details>
-<summary><b>🔹 Project Two — Real-Time Collaborative Engineering Suite</b></summary>
+<summary><b>🔹 Medical Emergency & SOS App (Hackathon Prototype)</b></summary>
 <br/>
-
-A real-time collaborative platform enabling multi-user editing, live cursors, and conflict-free state synchronization using CRDTs and WebSockets.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | TypeScript, Next.js, Node.js, Redis, WebSockets, MongoDB |
-| **Scale** | Supports 1,000+ concurrent collaborative sessions |
-| **Performance** | <50ms sync latency across distributed clients |
-| **Security** | End-to-end session encryption, JWT-based auth |
-| **Impact** | Adopted by 5K+ active users within 3 months |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/project-two) |
-
-Built with a CRDT-based conflict resolution engine to guarantee eventual consistency across distributed clients, with a horizontally scalable WebSocket gateway layer.
-
+A prototype application designed to rapidly enhance emergency medical services and response times during road accidents. Built with a focus on reliable system architecture and seamless user experience during high-stress situations.
+<br/><br/>
+<b>Tech:</b> UI/UX Design, System Architecture, Database Planning
+<br/><br/>
 </details>
 
 <details>
-<summary><b>🔹 Project Three — Distributed Microservices E-Commerce Backend</b></summary>
+<summary><b>🔹 Smart Commute & Transit App</b></summary>
 <br/>
-
-A production-grade microservices architecture powering a high-traffic e-commerce platform with independent, horizontally scalable services.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Go, gRPC, Kubernetes, PostgreSQL, Kafka, Terraform |
-| **Scale** | Handles 2M+ requests/day across 12 microservices |
-| **Performance** | Auto-scaled to handle 5x traffic spikes during sales events |
-| **Security** | mTLS service mesh, secrets management via Vault |
-| **Impact** | Improved system reliability from 98.5% to 99.95% uptime |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/project-three) |
-
-Designed with domain-driven service boundaries, event-driven communication via Kafka, and full observability through Prometheus and Grafana dashboards.
-
-</details>
+An intelligent transit utility platform designed to optimize daily routes and reduce commuter friction. Built with mobile-first design principles, this project leverages real-time spatial data, Supabase authentication, and AI-augmented coding workflows to deliver a seamless user experience.
+<br/><br/>
 
 ---
 
 ## 💼 Experience
 
-### Software Engineer
-**Company Name** · *Jan 2024 – Present*
+## 💼 Experience & Initiatives
 
-Building and scaling backend services and AI-powered features for a production platform serving millions of users.
+### Community Volunteer
+**U&I (Mangaluru)** • *Aug 2025 – Present*
 
-- Designed and implemented scalable microservices handling high-throughput production traffic
-- Built and deployed ML/LLM-powered features integrated into core product workflows
-- Improved system performance through profiling, caching strategies, and query optimization
-- Collaborated cross-functionally with product and design teams to ship customer-facing features
-- Mentored junior engineers and contributed to engineering best practices and code review standards
+Serving as a dedicated community volunteer, focusing on collaboration and local engagement.
 
-`Python` `Go` `AWS` `Kubernetes` `PostgreSQL` `LLMs`
+- Completed comprehensive onboarding and alignment guidelines to effectively serve and support the community
+- Collaborated with local teams and organizers to drive community-focused initiatives
+- Developed strong interpersonal communication and teamwork skills in diverse group settings
+
+`Community Service` `Teamwork` `Leadership` `Communication`
 
 <br/>
 
-### Software Engineering Intern
-**Company Name** · *May 2023 – Aug 2023*
+### Independent Developer & Creative Explorer
+**Freelance & Academic Projects** • *2025 – Present*
 
-Contributed to core backend infrastructure and developer tooling during a summer internship.
+Blending software development, system architecture, and digital media design to build prototypes and creative content.
 
-- Developed internal APIs consumed by multiple product teams
-- Built automated testing pipelines, increasing test coverage by 40%
-- Optimized database queries, reducing average response time by 35%
+- Engineered a Medical Emergency & SOS application prototype during a competitive hackathon to enhance road accident response
+- Conceptualized a resin art business, utilizing graphic design tools and meme marketing strategies for digital outreach
+- Designed and deployed a highly optimized, interactive 3D developer portfolio
+- designed and made a community useful app called Commute
+- Leveraged AI generation tools to build and present open-source concepts and networking materials
 
-`Node.js` `React` `Docker` `CI/CD`
+`C/C++` `SQL` `AI Automation` `Digital Media` `Content Marketing`
 
 ---
 
@@ -201,11 +173,11 @@ Contributed to core backend infrastructure and developer tooling during a summer
 
 | Recognition | Details |
 |---|---|
-| 🥇 **Hackathon Winner** | 1st Place, National-Level AI/ML Hackathon (2024) |
-| 🌟 **Open Source Contributor** | 500+ contributions, maintainer of 2 open-source repositories |
-| 📜 **Published Research** | Co-authored paper on efficient transformer fine-tuning |
-| 🎓 **Academic Excellence** | Top 5% of graduating class, Dean's List (4 semesters) |
-| 💡 **Patent Filed** | Provisional patent for a novel ML-based recommendation system |
+| 🎓 **Academic Excellence** | Consistently top of the class, maintaining an outstanding 9.6 CGPA |
+| 📜 **Published Research** | Authored and published a research paper focusing on Large Language Models (LLMs) |
+| 🥉 **Hackathon Winner** | 3rd Place for engineering a Medical Emergency & SOS application prototype |
+| 💼 **IT Manager Awards** | Recognized with multiple awards for excellence in tech leadership and IT management |
+| 🎨 **Design & Editing Awards** | Multiple accolades for exceptional creative execution in graphic design and digital media |
 
 </div>
 
@@ -213,34 +185,29 @@ Contributed to core backend infrastructure and developer tooling during a summer
 
 ## 📜 Certifications
 
-**AWS**
+**AI & Engineering**<br/>
+<img src="https://img.shields.io/badge/Generative%20AI-Certified-1A1A1A?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-Certified-1A1A1A?style=flat-square&logo=anthropic&logoColor=white" />
 
-<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Certified%20Developer-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<br/>
 
-**Oracle**
+**Marketing & Business**<br/>
+<img src="https://img.shields.io/badge/Digital%20%26%20Network%20Marketing-Certified-4285F4?style=flat-square&logo=googlemarketingplatform&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<br/>
 
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-6a3093?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-6a3093?style=flat-square&logo=googlescholar&logoColor=white"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20Certified-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+**Data & Productivity**<br/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Certified-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 
 ---
 
-## 💻 Coding Profiles
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-5%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="mailto:sumanthmr423@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/mr-sumanth-940424321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://mr-sumanth-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -250,22 +217,22 @@ Contributed to core backend infrastructure and developer tooling during a summer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=6a3093" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=6a3093&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumraaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=6a3093" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sumraaa&theme=tokyonight&hide_border=true&background=0f0c29&ring=6a3093&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumraaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sumraaa&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&row=1&column=7"/>
 
 </div>
 
@@ -275,7 +242,7 @@ Contributed to core backend infrastructure and developer tooling during a summer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0f0c29&color=A78BFA&line=6a3093&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumraaa&theme=react-dark&hide_border=true&bg_color=0f0c29&color=A78BFA&line=6a3093&point=ffffff" />
 
 </div>
 
