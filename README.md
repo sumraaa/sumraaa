@@ -248,37 +248,30 @@ Blending software development, system architecture, and digital media design to 
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
 ```yaml
 current_focus:
   learning:
-    - Advanced distributed systems design patterns
-    - Large-scale LLM fine-tuning and evaluation techniques
-    - Production-grade MLOps and model observability
+    - Advanced AI-augmented development workflows
+    - Modern web architecture and UI optimization
+    - System design for scalable applications
 
   building:
-    - An open-source RAG framework for enterprise document search
-    - A real-time analytics dashboard powered by streaming data pipelines
+    - Interactive frontend experiences and digital media content
+    - High-utility prototypes and automation tools
+    - Expanding personal portfolio and real-world projects
 
   exploring:
-    - Agentic AI workflows and multi-agent orchestration
-    - Edge AI deployment and on-device inference
+    - Emerging generative AI tools and prompt engineering techniques
+    - Digital marketing trends and creative design integration
+    - Open-source contributions
 
   open_to:
-    - Full-time Software Engineering / AI Engineering roles
-    - Open source collaboration
-    - Technical writing and mentorship opportunities
+    - Software Development Internships & Junior Roles
+    - Creative Tech Roles & UI/UX Design
+    - Freelance Engineering & Collaborative Projects
 ```
 
 ---
@@ -287,10 +280,10 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-302b63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6a3093?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:sumanthmr423@gmail.com"><img src="https://img.shields.io/badge/Gmail-302b63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mr-sumanth-940424321"><img src="https://img.shields.io/badge/LinkedIn-6a3093?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sumraaa"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mr-sumanth-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
